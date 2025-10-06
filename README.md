@@ -15,12 +15,12 @@
   <a href = "mailto:ianarasitila@alu.ufc.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ianarasitila" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-</p><br/>
+</p>
 
 
 
-  <summary><h2 style="color:#AC76F7FF;"> 💫 Ferramentas</h2></summary>
-  <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
+<h2 style="color:#AC76F7FF;"> 💫 Ferramentas</h2>
+
 
   <h4 style="color:#AC76F7FF;"> ⭐ Linguagens de Programação</h4>
 
