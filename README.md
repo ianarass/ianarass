@@ -1,8 +1,9 @@
+
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=montserrat&duration=4000&pause=1000&color=AC76F7&center=true&multiline=true&repeat=false&width=435&lines=Ianara+S%C3%ADtila" /></a>
 
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=montserrat&duration=4000&pause=1000&color=AC76F7&center=true&width=435&lines=%E2%98%86+Seja+bem+vinda+%E2%98%86;Conhe%C3%A7a+um+pouco+sobre+mim+%3A);Estou+sempre+aprendendo+novas+coisas;E+essa+%C3%A9+apenas+mais+uma+das+coisas!;%22Eterno+para+mim+%C3%A9+viver+o+agora.%22" /></a>
     
@@ -17,14 +18,12 @@
   
 </p>
 
+<br>
+  <h2 align="center" style="color:#AC76F7FF;"> 💫 Ferramentas</h2>
 
+  <h4 align="center" style="color:#AC76F7FF;"> ⭐ Linguagens de Programação</h4>
 
-<h2 style="color:#AC76F7FF;"> 💫 Ferramentas</h2>
-
-
-  <h4 style="color:#AC76F7FF;"> ⭐ Linguagens de Programação</h4>
-
-  <p>
+  <p align="center">
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
@@ -35,12 +34,11 @@
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
   </p>
 
-  
 
 
-  <h4 style="color:#AC76F7FF;"> ⭐ Software e Ferramentas</h4>
+  <h4 align="center" style="color:#AC76F7FF;"> ⭐ Software e Ferramentas</h4>
 
-  <p>
+  <p align="center">
       <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
       <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
@@ -51,17 +49,12 @@
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
 
-<br/>
 
+<br>
+<h2 align="center" style="color:#AC76F7FF;">🔥 Streak Stats</h2>
 
-
-<h3 style="color:#AC76F7FF;">🔥 Streak Stats</h3>
-
-
-  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-  <p>
+  <p align="center">
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ianarass's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=ianarass&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
     </a>
 
